@@ -1,2 +1,17 @@
-# Predicting_House_Prices
-This repository contains the code and report related to creating and finding the best model to predict the house buying decisions and the factors that influence the most in the process. Different models has been used, and the best model has been used for doing the prediction and feature selections.
+# Predicting Homebuyer Decisions in Dublin – A Data Analytics Approach
+
+Objective: 
+To identify influential features and build the most accurate predictive model for property sales in Dublin.
+
+Techniques Used:
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Predictive Modelling (Logistic Regression, Decision Tree, Random Forest, KNN, SVM, etc.)
+
+Outcome: 
+Evaluated and compared models to recommend the most effective one for predicting home sales.
+
+🧰 Tools & Technologies:
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebooks
